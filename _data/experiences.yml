@@ -6,9 +6,10 @@
   definir une architecture cible, les briques techniques a utiliser, valider des PoC
   d'integration avec de nouveaux services ou l'utilisation de nouveaux frameworks.
   J'accompagne egalement l'equipe dans la realisation des developements. Integration de services,
-  reprise/transformation de donnees"
+  reprise/transformation de donnees
+  #cdi #web-services #jbatch"
 - experience:
-  role: Senior Software Engineer
+  role: FileNet Integrator - Tech Lead
   time: 2014 - 2015
   company: Scor, Paris - Zurich
   details: "The main objective of this project was to provide proof that financial documents follows
@@ -17,11 +18,36 @@
   We encountered two main challenges, the first was to find a user friendly way to display solvency 2 articles
   to facilitate documents creator work's. The second one was to automatically fill ACPR template with data
   from the solution document's.
-  #springboot, #spring-batch, #pdfbox, #apache-poi #FileNet"
+  #spring-boot #spring-batch #pdfbox #apache-poi #FileNet"
 - experience:
-  role: Full Stack Developer
+  role: Full Stack Developer - Tech Lead
   time: 2012 - 2013
   company: Casden, Noisiel
-  details: "We recreated a business centered interface, based on IBM Content Navigator, we used ICN provided ecm/bpm back end services
-  to render a customer oriented view to our end-users.
-  #dojo, #guice, #spring-batch, #spring-ldap, #resteasy, #mybatis"
+  details: "We (re)created a business centered interface, based on IBM Content Navigator, we used
+  ICN provided ecm/bpm back end services to render a customer oriented view to our end-users.
+  #dojo #guice #spring-batch #spring-ldap #resteasy #mybatis"
+- experience:
+  role: Support, ECM, Developer
+  time: 2012
+  company: Credit Foncier, Ivry sur Seine
+  details: "Technical Support & Evolutions on custom Relationship and Client Event Management Tool. The aim of this mission
+  was to perform an estimation of the time and costs of different migration scenarii. The global scenarii was
+  to migrate the application from FileNet P8 3.5 to FileNet P8 4.5.
+  #struts #spring-batch #spring-ldap"
+- experience:
+  role: ECM, Lead Developer
+  time: 2011
+  company: BNP Paribas, Paris
+  details: "Integration of BNP Fortis branch specific requirements within a solution based on the FileNet Retail
+  application we created a year ago. A little bit different on the functional side, so we had to redesign some parts
+  of the data model, but still really similar on the technical side as we used the exact same FileNet stack. Ant to Maven migration.
+  #maven #ejb2 #sweetdev"
+- experience:
+  role: ECM, Developer
+  time: 2009 - 2010
+  company: BNP Paribas, Paris - Mumbai
+  details: "Creation of an application to manage MiddleOffice and BackOffice instructions sheets lifecycle. Built on top of FileNet P8
+  Content Engine, Process Engine and Process Analyzer. We used FileNet Capture as a scan module, and had to develop a .NET client application
+  using FN Capture API to handle a strong authentication using refog and PKI tokens. Custom KPI Export and Reports with IBM MQueue, BusinessObjects.
+  #maven #ejb2 #sweetdev #IBM MQueue #BusinessObject"
+

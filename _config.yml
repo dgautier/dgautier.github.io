@@ -1,31 +1,30 @@
 # Site Settings
-title: My Resume
+title: David Gautier Resume
 url: 'https://dgautier.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
-#style: styles-3
+style: styles-3
 #style: styles-4
 #style: styles-5
 #style: styles-6
 
 #Profile information
 name: David Gautier
-tagline: Back End Architect and Developer
+tagline: Back End Architect & Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'I am an Architect/Developer, specialized in designing and implementing Java JEE ECM/BPM solutions.
+ I have worked 9 years on various ECM/BPM projects mostly for insurances and banking companies. I am always trying to
+ improve the way we develop/deploy  and i tend to try to automate and simplify it.'
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: david.gautier@ginko.io
+phone: 06 85 67 28 18
+website: ginko.io #do not add http://
+linkedin: dgautier1
+github: dgautier
+#twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker

@@ -1,18 +1,15 @@
 - skill:
-  name: Python & Django
-  level: 98%
+  name: Java & JEE
+  level: 90%
 - skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
-  name: Ruby on Rails
+  name: Javascript & dojo
   level: 85%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Angular
+  level: 10%
+- skill:
+  name: ECM & BPM
+  level: 95%
+- skill:
+  name: Integration
+  level: 95%%

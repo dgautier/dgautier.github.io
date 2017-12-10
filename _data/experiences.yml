@@ -1,28 +1,27 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Architect, Lead Developer, Technical Advisor
+  time: 2016 - Present
+  company: BPI France, Maisons Alfort
+  details: "J'interviens des la phase de definition du besoin pour aider a le preciser,
+  definir une architecture cible, les briques techniques a utiliser, valider des PoC
+  d'integration avec de nouveaux services ou l'utilisation de nouveaux frameworks.
+  J'accompagne egalement l'equipe dans la realisation des developements. Integration de services,
+  reprise/transformation de donnees"
 - experience:
   role: Senior Software Engineer
   time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  company: Scor, Paris - Zurich
+  details: "The main objective of this project was to provide proof that financial documents follows
+  Solvency 2 directives to the ACPR. We created a FileNet based solution that allows managers to associate
+  a document with 1-N Solvency 2 articles, then the document follows a predefined approval process.
+  We encountered two main challenges, the first was to find a user friendly way to display solvency 2 articles
+  to facilitate documents creator work's. The second one was to automatically fill ACPR template with data
+  from the solution document's.
+  #springboot, #spring-batch, #pdfbox, #apache-poi #FileNet"
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Full Stack Developer
+  time: 2012 - 2013
+  company: Casden, Noisiel
+  details: "We recreated a business centered interface, based on IBM Content Navigator, we used ICN provided ecm/bpm back end services
+  to render a customer oriented view to our end-users.
+  #dojo, #guice, #spring-batch, #spring-ldap, #resteasy, #mybatis"

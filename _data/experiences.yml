@@ -2,11 +2,11 @@
   role: Architect, Lead Developer, Technical Advisor
   time: 2016 - Present
   company: BPI France, Maisons Alfort
-  details: "J'interviens des la phase de definition du besoin pour aider a le preciser,
-  definir une architecture cible, les briques techniques a utiliser, valider des PoC
-  d'integration avec de nouveaux services ou l'utilisation de nouveaux frameworks.
-  J'accompagne egalement l'equipe dans la realisation des developements. Integration de services,
-  reprise/transformation de donnees
+  details: "As architect, i collaborate with other services architects and urbanists to ensure we
+  fully follows entreprise rules. As Technical Advisor of the ECM/BPN Service, i define the architecture
+  of each project, validate frameworks, realize Proof Of Concept of tools to integrate in our common toolbox.
+  As Lead  developer i am par of the dev team and develop services to integrate external data within our applications,
+  realize batches to retrieve documents from all kind of legacy solutions etc.
   #cdi #web-services #jbatch"
 - experience:
   role: FileNet Integrator - Tech Lead
@@ -50,4 +50,3 @@
   Content Engine, Process Engine and Process Analyzer. We used FileNet Capture as a scan module, and had to develop a .NET client application
   using FN Capture API to handle a strong authentication using refog and PKI tokens. Custom KPI Export and Reports with IBM MQueue, BusinessObjects.
   #maven #ejb2 #sweetdev #IBM MQueue #BusinessObject"
-

@@ -16,7 +16,7 @@ tagline: Back End Architect & Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'I am an Architect/Developer, specialized in designing and implementing Java JEE ECM/BPM solutions.
  I have worked 9 years on various ECM/BPM projects mostly for insurances and banking companies. I work to ensure
- our common base code remains <a href="#" target="https://fr.wikipedia.org/wiki/Principe_KISS">KISS friendly while trying to secure, automate and simplify code and deployments. I aim
+ our common base code remains <a href="#" target="https://fr.wikipedia.org/wiki/Principe_KISS">KISS</a> friendly while trying to secure, automate and simplify code and deployments. I aim
   to become a true Software Craftsman.'
 
 #sidebar links

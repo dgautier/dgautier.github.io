@@ -1,15 +1,6 @@
 - skill:
-  name: Java & JEE
+  name: Java EE
   level: 90%
 - skill:
-  name: dojo js
-  level: 80%
-- skill:
-  name: Angular
-  level: 15%
-- skill:
-  name: ECM & BPM
-  level: 95%
-- skill:
-  name: Integration
-  level: 95%
+  name: Spring
+  level: 65%

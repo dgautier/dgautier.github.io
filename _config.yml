@@ -14,13 +14,11 @@ baseurl: '' #change it according to your repository name
 name: David Gautier
 tagline: Back End Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: '9 +years Back End Java EE Developer.'
-summary: 'Specialized in designing and implementing ECM/BPM solutions.'
-summary: 'Strong experience integrating SOA and clients.'
-summary: 'Expertise in the deployment and release of the applications with building tool Maven'
-summary: 'Hands on experience writing web services using Restful (JAX-RS) and SOAP (JAX-WS)'
-summary: 'Experience in working with IDEs like Intellij'
-summary: 'Efficient Team Player, sound communication, problem solving skills with analytical capabilities'
+summary: '9 +years Back End Java EE Developer. Specialized in designing and implementing ECM/BPM solutions.
+  Strong experience integrating SOA and clients. Expertise in the deployment and release of the applications
+  with building tool Maven. Hands on experience writing web services using Restful (JAX-RS) and SOAP (JAX-WS).
+  Experience in working with IDEs like Intellij. Efficient Team Player, sound communication, problem
+  solving skills with analytical capabilities.'
 
 #sidebar links
 email: david.gautier@ginko.io

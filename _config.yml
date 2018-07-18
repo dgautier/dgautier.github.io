@@ -12,7 +12,7 @@ baseurl: '' #change it according to your repository name
 
 #Profile information
 name: David Gautier
-tagline: Back End Architect & Developer
+tagline: Back End Developer
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary:
 - '9 +years Back End Java EE Developer.'

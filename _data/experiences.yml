@@ -1,13 +1,12 @@
 - experience:
-  role: Architect, Lead Developer, Technical Advisor
+  role: Lead Developer, Technical Advisor
   time: 2016 - Present
   company: BPI France, Maisons Alfort
-  details: "As architect, i collaborate with other services architects and urbanists to ensure we
-  fully follows entreprise rules. As Technical Advisor of the ECM/BPN Service, i define the architecture
+  details: "As Technical Advisor of the ECM/BPN Service, i define the architecture
   of each project, validate frameworks, realize Proof Of Concept of tools to integrate in our common toolbox.
-  As Lead  developer i am par of the dev team and develop services to integrate external data within our applications,
+  As Lead  developer i am part of the dev team and develop services to integrate external data within our applications,
   realize batches to retrieve documents from all kind of legacy solutions etc.
-  #cdi #web-services #jbatch"
+  #cdi #web-services #jbatch #openshift"
 - experience:
   role: FileNet Integrator - Tech Lead
   time: 2014 - 2015

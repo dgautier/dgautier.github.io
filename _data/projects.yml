@@ -1,6 +1,20 @@
 - intro:
-  description: "A few projects i made for myself."
+  description: "OSS Contributions."
 
+- project:
+  title: YouSign API Java Client
+  link: "https://github.com/dgautier/yousign-api-client-java"
+  tagline: "A Java Client to call YouSign Soap WS."
+- project:
+  title: java-bean-validation-extension (JBVExt)
+  link: "https://github.com/nomemory/java-bean-validation-extension"
+  tagline: "JBVE (Java Bean Validation Extension) is a small utils library that extends the Java Bean Validation
+  Specification with additional @Annotations. I created annotations Before/After and MinDigits/MaxDigits."
+- project:
+  title: Tradukisto
+  link: "https://github.com/allegro/tradukisto"
+  tagline: "Tradukisto is a library for Java 8+ created to convert numbers to their word representations. I pushed an
+  implementation for french language."
 - project:
   title: DocuWare - Java Client
   link: "https://github.com/dgautier/PlatformJavaClient"
